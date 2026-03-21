@@ -1,2 +1,3 @@
-# core-mobile-app-fv0g
-A mobile application for modern development workflows
+# Core Mobile App Fv0G
+
+A mobile application for modern development workflows.
